@@ -8,7 +8,7 @@ Runs a LunchLine Stimulator with different "realities" (dealing with different/m
 the studentLine.
 
 CSE214-HW2 
-Runs a OilChangeManage that implements a LinkedList that holds a Car Object with properites that can merge said Car-List as well
+Runs a OilChangeManager that implements a LinkedList that holds a Car Object with properites that can merge said Car-List as well
 (Cursor placement changes, and removing elements from LinkedList. This has a cycling with time periods for user to change the Lists as he/she likes,
 
 CSE214-HW3 
